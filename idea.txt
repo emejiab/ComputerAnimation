@@ -1,8 +1,3 @@
-The idea is divided into five to seven escenes.
-
-1.- Introduction: Background in black, the logo of ESCOM ascend from the ground and the camera move around it.
-2.- Presentation of liquids interacting with the scene.
-3.- Presentation of particles of smog and colors
-4.- Show the capabilities of lights, physics and camera with differents kind of materials
-5.- VFX demostration
-6.- Presentation final lika collage of all the frames
+I like to make an animation that transmit enthisiasm, euphoria and astonishment with different points of view 
+of effects with camera and physics.
+I want to show Blender Demo capabilities
