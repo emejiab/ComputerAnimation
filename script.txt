@@ -1,0 +1,32 @@
+\documentclass{screenplay}[2012/06/30]
+
+\title{Blender Demo Capabilities}
+
+\author{Ivan Mejia}
+
+\address{Computer Animation\\
+ESCOM\\
+2020\\
+ifree.uk@gmail.com
+}
+\begin{document}
+
+\coverpage
+\fadein
+
+\intslug[black background]
+The scene is illuminated by white light in the center, The song of Traveller
+"Weaver (E.H.R Mix) starts playing from the beginning of the scene until 
+the end of the scene.
+\begin{dialogue}{Camera 1}
+\end{dialogue}
+Begins to move around the LOGOESCOM from left to right, and start climbing
+to have a view from above the LOGOESCOM.
+\begin{dialogue}{LogoESCOM}
+\end{dialogue}
+Simultaneously starts to be illuminated by lights passing around changing
+it's colour reflecting in LOGOESCOM.
+
+When the CAMERA 1 focus from above the LOGOESCOM, all the lights go out for
+a few seconds suddenty everything is illuminated in white.
+\end{document}
