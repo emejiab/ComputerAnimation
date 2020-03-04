@@ -1,5 +1,4 @@
 \documentclass{screenplay}[2012/06/30]
-
 \title{Blender Demo Capabilities}
 
 \author{Ivan Mejia}
@@ -14,11 +13,13 @@ ifree.uk@gmail.com
 \coverpage
 \fadein
 
+%PRIMERA ESCENA
 \intslug[black background]
-The scene is illuminated by white light in the center, The song of Traveller
+
+The scene is illuminated by white light in the center, the song of Traveller
 "Weaver (E.H.R Mix) starts playing from the beginning of the scene until 
 the end of the scene.
-\begin{dialogue}{Camera 1}
+\begin{dialogue}{BlaWhi}
 \end{dialogue}
 Begins to move around the LOGOESCOM from left to right, and start climbing
 to have a view from above the LOGOESCOM.
@@ -27,6 +28,50 @@ to have a view from above the LOGOESCOM.
 Simultaneously starts to be illuminated by lights passing around changing
 it's colour reflecting in LOGOESCOM.
 
-When the CAMERA 1 focus from above the LOGOESCOM, all the lights go out for
+When the CAMERA 1 finish focus from above the LOGOESCOM, all the lights go out for
 a few seconds suddenty everything is illuminated in white.
+
+
+%ESCENA 2
+\intslug[white background]
+
+The scene is all illuminated by white light, *Space to music.
+\begin{dialogue}{BALL}
+\end{dialogue}
+It is suspended from a chain, suddenly released.
+\begin{dialogue}{LogoESCOM}
+\end{dialogue}
+It disappears from the scene with special effect.
+\begin{dialogue}{BlaWhi}
+
+Ohh no. . .
+\end{dialogue}
+Focus LOGOESCOM until it disappears and see BUILDING emerge until hears the ball 
+chain break, to focus it from below.
+
+
+\begin{dialogue}{BUILDING}
+\end{dialogue}
+It appears from below until it is completely displayed on the scene.
+
+\begin{dialogue}{BALL}
+\end{dialogue}
+It falls on the BUILDING.
+
+\begin{dialogue}{BlaWhi}
+\end{dialogue}
+it focuses on the BUILDING as it recedes until it falls into the water
+
+More balls falls into others BUILDING's aroud the CAMERA 1
+%ESCENA 3
+\intslug[white background]
+
+The scene is all illuminated by white light, *Space to music.
+
+\begin{dialogue}{BlaWhi}
+\end{dialogue}
+Try to float on the water, until gradually out to the surface again
+and manages to ascend at another point
+
+
 \end{document}
