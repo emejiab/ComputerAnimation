@@ -14,64 +14,66 @@ ifree.uk@gmail.com
 \fadein
 
 %PRIMERA ESCENA
-\intslug[black background]
-
-The scene is illuminated by white light in the center, the song of Traveller
-"Weaver (E.H.R Mix) starts playing from the beginning of the scene until 
+\textbf{\extslug[Empty space with black background]}
+%Poner que es un espacio vacio con fondo blanco
+Everything is dark, suddenly the floor is illuminated by white light in the center, the song of Traveller
+"Weaver (E.H.R Mix) starts playing from the beginning of the scene until until everything lights up in white light
 the end of the scene.
-\begin{dialogue}{BlaWhi}
-\end{dialogue}
-Begins to move around the LOGOESCOM from left to right, and start climbing
-to have a view from above the LOGOESCOM.
 \begin{dialogue}{LogoESCOM}
 \end{dialogue}
-Simultaneously starts to be illuminated by lights passing around changing
-it's colour reflecting in LOGOESCOM.
+It appears from the floor, when ascending completely starts to be illuminated by different lights of different colors passing around, showing the reflection effects in LOGOESCOM.
 
-When the CAMERA 1 finish focus from above the LOGOESCOM, all the lights go out for
-a few seconds suddenty everything is illuminated in white.
+\begin{dialogue}{BlaWhi}
+(scared) Whooo!
+\end{dialogue}
 
+Approaches to inspect LOGOESCOM (demonstrating the camera movements),  move around the LOGOESCOM from left to right, and start climbing to have a view from above the LOGOESCOM and discover its full form.
+\begin{dialogue}{BlaWhi}
+(astonished) It is so beautiful!!!
+\end{dialogue}
+When the BLAWHI finish focus from above the LOGOESCOM, all the lights go out for a few seconds suddenly everything is illuminated in white.
 
 %ESCENA 2
-\intslug[white background]
-
+\textbf{\extslug[Empty space with white background]}
 The scene is all illuminated by white light, *Space to music.
 \begin{dialogue}{BALL}
 \end{dialogue}
-It is suspended from a chain, suddenly released.
+It is suspended from a chain.
+\begin{dialogue}{BlaWhi}
+(baffled) Ohh no. . .
+\end{dialogue}
+Focus LOGOESCOM until it disappears
 \begin{dialogue}{LogoESCOM}
 \end{dialogue}
-It disappears from the scene with special effect.
+It disappears from the scene with fire special effects.
 \begin{dialogue}{BlaWhi}
-
-Ohh no. . .
 \end{dialogue}
-Focus LOGOESCOM until it disappears and see BUILDING emerge until hears the ball 
-chain break, to focus it from below.
-
-
+Go to the floor to see what happened
 \begin{dialogue}{BUILDING}
 \end{dialogue}
 It appears from below until it is completely displayed on the scene.
+\begin{dialogue}{BlaWhi}
+(exalted) Whooo aaah ooohh !!
+\end{dialogue}
+See BUILDING emerge from the floor under it, until she hears how the ball chain is breaking and turn to see the BALL.
 
 \begin{dialogue}{BALL}
 \end{dialogue}
-It falls on the BUILDING.
+Your chain breaks and falls into the BUILDING.
 
 \begin{dialogue}{BlaWhi}
 \end{dialogue}
-it focuses on the BUILDING as it recedes until it falls into the water
+Turn to his back, to see his rocket's ignite and demonstrate  new effect of fire, and take off from the building to the floor, and
+focuses on the BUILDING, and sees the effect of rigid bodies hitting each other, with the ball destroying the building in thousands of pieces. Repeatedly, one of the pieces hits her head on and pushes it back until it falls into the water.
 
-More balls falls into others BUILDING's aroud the CAMERA 1
 %ESCENA 3
-\intslug[white background]
+\textbf{\intslug[Deposit bottom with crystal clear water]}
+%The scene is all illuminated by white light, *Space to music.
 
-The scene is all illuminated by white light, *Space to music.
-
-\begin{dialogue}{BlaWhi}
-\end{dialogue}
-Try to float on the water, until gradually out to the surface again
-and manages to ascend at another point
+%\begin{dialogue}{BlaWhi}
+%\end{dialogue}
+%Try to float on the water, until gradually out to the surface %again
+%and manages to ascend at another point
 
 
 \end{document}
