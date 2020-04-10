@@ -27,7 +27,7 @@ It appears from the floor, when ascending completely starts to be illuminated by
 (scared) Whooo!
 \end{dialogue}
 
-Approaches to inspect LOGOESCOM (demonstrating the camera movements),  move around the LOGOESCOM from left to right, and start climbing to have a view from above the LOGOESCOM and discover its full form.
+Approaches to inspect LOGOESCOM (demonstrating the camera movements),  move around the LOGOESCOM from right to left, and start climbing to have a view from above the LOGOESCOM and discover its full form.
 \begin{dialogue}{BlaWhi}
 (astonished) It's so beautiful!!!
 \end{dialogue}
@@ -35,7 +35,7 @@ When the BLAWHI finish focus from above the LOGOESCOM, all the lights go out for
 
 %ESCENA 2
 \textbf{\extslug[Empty space with white background]}
-The scene is all illuminated by white light, *Space to music.
+The scene is all illuminated by white light, the song "Edvard Grieg - Peer Gynt Suite No. 1, Op. 46 - 04 - In the Hall of the Mountain King - Czech National Symphony Orchestra" begins to reproduce.
 \begin{dialogue}{BALL}
 \end{dialogue}
 It is suspended from a chain.
@@ -72,29 +72,28 @@ focuses on the BUILDING, and sees the effect of rigid bodies hitting each other,
 
 %ESCENA 3
 \textbf{\intslug[Tank bottom with water]}
-BLAWHI is absorved in the water into a tunnel (with special effects of colours and perspectives in the tunnel)
+The song "47 Charles Saint - Saëns - Carnival Of The Animals Aquarium, 1886" begins to reproduce. BLAWHI is absorved in the water into a tunnel (with special effects of colours and perspectives in the tunnel)
 
 \begin{dialogue}{BlaWhi}
 (scared) Whaa...at is this?
 \end{dialogue}
 
-BLAWHI cross the tunnel until get expelled
+BLAWHI cross the tunnel until it is absorbed and expelled
 
 %ESCENA 4
 \textbf{\intslug[Auditorium entrance of the school]}
-The camera see the Auditorium of ESCOM head on 
+The camera see the Auditorium of ESCOM head on and the song "Katrina & The Waves - Walking On Sunshine" begins to reproduce.
 
 BLAWHI moves from right to left (with FX)
-%The scene is all illuminated by white light, *Space to music.
 
 
 \begin{dialogue}{BlaWhi}
-(psychotic) This is a better place. . .right?
+(confused) This is a better place. . .right?
 \end{dialogue}
-BLAWHI  see to the camera and smile
+BLAWHI  see to the camera and moves your head to dance and smile
 %\begin{dialogue}{BlaWhi}
 %\end{dialogue}
 %Try to float on the water, until gradually out to the surface %again
 %and manages to ascend at another point
-
+\theend
 \end{document}
