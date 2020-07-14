@@ -1,0 +1,4 @@
+The idea is divided into two escenes.
+
+1.- Background in black, the logo of ESCOM ascend from the ground and the camera move around it, with presentatión of reflections and lights.
+2.- Show fire special effects and the capabilities of lights, colors and physics and camera with some materials
